@@ -1,0 +1,12 @@
+load_dotnev
+langchain
+langchain_openai
+Pillow
+pydantic
+langchain-ollama
+Pillow
+ollama
+google-genai
+higgsfield-client
+fastrtc-moonshine-onnx
+kokoro-onnx
